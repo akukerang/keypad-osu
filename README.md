@@ -12,9 +12,9 @@
 
 ## Pictures
 ### PCB
-![PCB](https://i.gyazo.com/f9d214179ddbb9bd74272a47f0af9216.png)
+![PCB](https://i.gyazo.com/a884ff29ef65a999c8cf1412c2416e96.png)
 ### Top
-![PCB Top](https://i.gyazo.com/de587ad83209299087965ccebd826211.png)
+![PCB Top](https://i.gyazo.com/89a001a8a4d222a261a7d7ef54655505.png)
 ### Bottom
 ![PCB Bottom](https://i.gyazo.com/d6ad83c3c7e47191b47311670d74eaea.png)
 
